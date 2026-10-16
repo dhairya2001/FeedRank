@@ -1,0 +1,5 @@
+.venv/
+data/
+artifacts/*.pt
+__pycache__/
+.pytest_cache/
